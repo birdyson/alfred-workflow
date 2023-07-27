@@ -2,6 +2,7 @@
 Some Alfred workflows natively support this feature without needing third-party dependencies.
 
 ### Timestamp
+---
 This workflow accept optional param:
 
 Get nothing:
