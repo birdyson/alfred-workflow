@@ -11,3 +11,11 @@ Get nothing:
 Get timestamp:
 
 - Parse timestamp to datetime
+
+## NewPath
+
+## TerminalFinder
+
+## VSCodeDiff
+
+## Whistle
